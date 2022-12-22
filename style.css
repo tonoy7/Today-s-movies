@@ -121,6 +121,10 @@ a {
   h2 {
     background-color: black;
   }
+  .photo-detail {
+    display: block;
+    width: 100%;
+  }
 }
 @media only screen and (min-width: 768px) and (max-width: 992px) {
   body {
